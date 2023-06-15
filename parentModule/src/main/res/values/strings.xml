@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Parent App</string>
+    <string name="dad">Papa</string>
+    <string name="mom">Mummy</string>
+    <string name="submit">Submit</string>
+    <string name="who_are_you">Who are you ?</string>
+    <string name="default_notification_channel_id" translatable="false">1001</string>
+
+</resources>

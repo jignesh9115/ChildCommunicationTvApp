@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Parent Tv App</string>
+    <string name="need_to_inform_your_parents_click_on_below_button">Need to inform your parents ? Click on below button</string>
+    <string name="papa">Papa</string>
+    <string name="mummy">Mummy</string>
+    <string name="enter_message">enter message</string>
+</resources>
